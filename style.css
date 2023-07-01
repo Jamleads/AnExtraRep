@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+form {
+  width: 40%;
+  background: red;
+  text-align: right;
+  padding: 30px 20px;
+}
+input {
+  width: 70%;
+  height: 20px;
+  margin-top: 10px;
+}
+button {
+  width: 71%;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  padding: 10px 0px;
+  background-color: rgb(12, 172, 235);
+}
